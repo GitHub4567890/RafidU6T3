@@ -9,7 +9,7 @@ public class ArrayAlgorithms {
         String[] newArray = new String[wordList.length];
         for (int i = 0; i <= wordList.length - 1; i++) {
             newArray[i] = wordList[i];
-        }
+        }a
         for (int i = 0; i <= newArray.length - 1; i++) {
             newArray[i] = newArray[i].toLowerCase();
         }
